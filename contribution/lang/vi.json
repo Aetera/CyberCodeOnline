@@ -28,16 +28,16 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Bạn có thể mua các loại Buff Thế Giới tại đây",
+ 	 	 	 	"trans": "Bạn có thể mua các loại Cường Hóa Toàn Cầu tại đây",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Bạn cần đạt Cấp 3 để truy cập Unit",
+ 	 	 	 	"trans": "Bạn cần đạt Cấp 3 để truy cập Cửa hàng Unit",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Bạn muốn mua Đơn vị hay sử dụng Đơn vị của mình?"
+ 	 	 	 	 	"Bạn muốn mua Unit hay sử dụng Unit của mình?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -50,16 +50,16 @@
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Cảm ơn bạn đã tham gia trò chơi <3. Nếu bạn thích trò chơi này, bạn có thể ủng hộ qua cửa hàng",
+ 	 	 	 	"trans": "Cảm ơn bạn đã tham gia trò chơi <3. Nếu bạn thích trò chơi này, bạn có thể ủng hộ qua Cửa hàng",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Bạn cần đạt Cấp 3 để vào Cửa Hàng Hiệu Ứng",
+ 	 	 	 	"trans": "Bạn cần đạt Cấp 3 để truy cập Cửa Hàng Hiệu Ứng",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Chào! Đóng góp để nhận các đặc quyền tốt và giúp hỗ trợ các trò chơi Miễn phí để Giành chiến thắng như trò chơi này!"
+ 	 	 	 	 	"Xin chào! Hãy đóng góp để nhận các đặc quyền tốt và giúp hỗ trợ các trò chơi Free-to-win như trò chơi này!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -77,7 +77,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Tôi sẽ in bất cứ thứ gì bạn muốn nếu bạn có bộ nhớ cache!"
+ 	 	 	 	 	"Tôi sẽ in bất cứ thứ gì bạn muốn nếu bạn có Bộ nhớ cache!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll print whatever you want if you have the cache!"
@@ -100,24 +100,24 @@
  	 	},
  	 	"terminal": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bảng Điều Khiển",
+ 	 	 	 	"trans": "Ga Cuối",
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Để vào khu vực tiếp theo, bạn cần 3 [Mảnh Chìa Khóa Bí Mật] (nhận từ các phó bản) và sử dụng [Bảng Điều Khiển] để tạo [Chìa Khóa Bí Mật] và khu vực tiếp theo",
+ 	 	 	 	"trans": "Để vào khu vực tiếp theo, bạn cần 3 [Mảnh Chìa Khóa Bí Mật] (nhận từ các phó bản) và truy cập [Ga Cuối] để tạo [Chìa Khóa Bí Mật] để mở khóa khu vực tiếp theo",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Đây là máy tính của bạn, dù lỗi thời nhưng mà vẫn được việc nếu bạn đủ kiên nhẫn",
+ 	 	 	 	"trans": "Đây là máy tính của bạn, dù hơi lỗi thời nhưng mà vẫn làm việc được nếu bạn đủ kiên nhẫn",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Bạn cần đạt Cấp 5 để truy cập Bảng Điều Khiển",
+ 	 	 	 	"trans": "Bạn cần đạt Cấp 5 để truy cập Ga Cuối",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Tôi sẽ giúp bạn tiến tới lĩnh vực tiếp theo!"
+ 	 	 	 	 	"Tôi sẽ giúp bạn tiến tới khu vực tiếp theo!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Hãy đến xem hàng của tôi."
+ 	 	 	 	 	"Này nhóc... Hãy đến mua hàng của Aetera."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -144,7 +144,7 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Bạn cần đạt Cấp 5 để vào Ngân Hàng",
+ 	 	 	 	"trans": "Bạn cần đạt Cấp 5 để truy cập Ngân Hàng",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	},
  	 	 	"defaultLines": {
@@ -166,7 +166,7 @@
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Bạn cần đạt cấp 10 để truy cập Trạm Hiệu Chuẩn",
+ 	 	 	 	"trans": "Bạn cần đạt cấp 10 để truy cập Trạm Hiệu Chỉnn",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	},
  	 	 	"defaultLines": {
@@ -184,16 +184,16 @@
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Cửa hàng của một gia đình trao đổi những thứ dùng được mà họ tìm thấy ở bãi rác",
+ 	 	 	 	"trans": "MỘt cửa hàng của một gia đình giúp bạn trao đổi những thứ dùng được mà họ tìm thấy ở bãi rác",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Bạn cần đạt Cấp 10 để vào Cửa hàng gia đình Lee",
+ 	 	 	 	"trans": "Bạn cần đạt Cấp 10 để truy cập Cửa hàng gia đình Lee",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid, Tôi là Lee, Bạn biết đấy, bạn không cần phải mang theo mọi thứ bạn có trong túi."
+ 	 	 	 	 	"Này nhóc, dù tôi không phải là Lee, bạn biết đấy, bạn không cần phải mang theo mọi thứ bạn có bằng túi."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -202,11 +202,11 @@
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tái Chế Tự Động",
+ 	 	 	 	"trans": "Máy Tái Chế Tự Động",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Tái chế các vật phẩm thành phế liệu hoàn toàn tự động",
+ 	 	 	 	"trans": "Tái chế các vật phẩm thành phế liệu, hoàn toàn tự động",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -251,25 +251,25 @@
  	 	},
  	 	"medical": {
  	 	 	"name": {
- 	 	 	 	"trans": "Y Học",
+ 	 	 	 	"trans": "Trình Độ Y Học",
  	 	 	 	"eng": "medical science"
  	 	 	}
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Chế Tác Đạn",
+ 	 	 	 	"trans": "Kĩ Năng Chế Tác Đạn",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "Thu Thập",
+ 	 	 	 	"trans": "Kĩ Năng Thu Thập",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "Khai Thác",
+ 	 	 	 	"trans": "Kĩ Năng Khai Thác",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -277,7 +277,7 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Trung Tâm TP. Shangri-La",
+ 	 	 	 	"trans": "Trung Tâm TP.Shangri-La",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
@@ -314,24 +314,24 @@
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Mua bán vật phẩm từ người chơi khác",
+ 	 	 	 	 	"trans": "Bạn có thể mua bán vật phẩm từ người chơi khác tại đây",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Đến Trụ Sở Tập Đoàn",
+ 	 	 	 	 	"trans": "Đến Trụ Sở Của Băng Đảng",
  	 	 	 	 	"eng": "Go to gang headquarters"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"job": {
  	 	 	"name": {
- 	 	 	 	"trans": "Khu thương mại Shangri-La",
+ 	 	 	 	"trans": "Khu Thương Mại Shangri-La",
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Khu Treo Máy]\r\n        Tại đây có rất nhiều cửa hàng và doanh nghiệp, một nơi hoàn hảo để trau dồi và hoàn thiện kỹ năng.",
+ 	 	 	 	"trans": "[Trung Tâm Nghề]\r\n        Tại đây có rất nhiều cửa hàng và doanh nghiệp, một nơi hoàn hảo để trau dồi và hoàn thiện kỹ năng của bạn.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -352,7 +352,7 @@
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Trở Lại Trung Tâm TP Shangri-La",
+ 	 	 	 	 	"trans": "Trở Lại Trung Tâm TP.Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
@@ -380,7 +380,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Trở lại ${mainHubName}",
+ 	 	 	 	 	"trans": "Trở về ${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
@@ -389,14 +389,14 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "trở về ${segmentStationName}",
+ 	 	 	 	 	"trans": "Trở về ${segmentStationName}",
  	 	 	 	 	"eng": "back to ${segmentStationName}"
  	 	 	 	},
  	 	 	 	"description": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "trở lại ${segmentStationName}",
+ 	 	 	 	 	"trans": "Trở về ${segmentStationName}",
  	 	 	 	 	"eng": "return to ${segmentStationName}"
  	 	 	 	}
  	 	 	},
@@ -414,7 +414,7 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Thu thập 3 [Mảnh Vỡ Chìa Khóa] từ các [Phó Bản] trong 3 Khu vực ở trạm trước, đến [Bảng Điều Khiển] ở Trung Tâm TP [Hub] để ghép thành [Chìa Khóa] cho khu vực tiếp theo",
+ 	 	 	 	 	"trans": "Thu thập 3 [Mảnh Vỡ Chìa Khóa] từ các [Phó Bản] trong 3 Khu vực ở trạm trước, đến [Ga cuối] ở Trung Tâm TP [Hub] để ghép thành [Chìa Khóa] cho khu vực tiếp theo",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
@@ -463,15 +463,15 @@
  	 	},
  	 	"gang": {
  	 	 	"name": {
- 	 	 	 	"trans": "Trụ Sở Tập Đoàn",
+ 	 	 	 	"trans": "Trụ Sở Băng Đảng",
  	 	 	 	"eng": "Gang Headquarters"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Tập Đoàn] \r\n         Trụ sở chính cho các thành viên Tập Đoàn lập kế hoạch thực hiện chiến dịch tiếp theo",
+ 	 	 	 	"trans": "[Băng Đảng] \r\n         Trụ sở chính cho các thành viên Băng Đảng lập kế hoạch thực hiện chiến dịch tiếp theo",
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Bạn phải tham gia một Tập Đoàn để vào khu vực này",
+ 	 	 	 	"trans": "Bạn phải tham gia một Băng Đảng để vào khu vực này",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -489,7 +489,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Một mảnh vỡ chứa ký ức và kinh nghiệm của ai đó. Sử dụng có thể nhận được kinh nghiệm ${levelName}",
+ 	 	 	 	"trans": "Một mảnh vỡ chứa ký ức và kinh nghiệm của ai đó. Sử dụng nó có thể nhận được ${levelName} kinh nghiệm",
  	 	 	 	"eng": "A shard that contains someone's memory and experience. If used you may gain ${levelName} experience from this"
  	 	 	}
  	 	},
@@ -506,7 +506,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "[Mảnh Chìa Khóa ${segmentDisplayName}] được sử dụng để ghép thành [Chìa Khóa].\nSử dụng [Bảng Điều Khiển] ở Trung Tâm TP [Hub] để ghép thành [Chìa Khóa ${segmentDisplayName}].\nBạn có thể nhận được một trong số 3 [Mảnh Chìa Khóa] trong mỗi phó bản (cả Bình thường và Thử thách), khi bạn có được 3 [Mảnh Chìa Khóa], sử dụng [Bảng Điều Khiển] để ghép thành [Chìa Khóa] cho khu vực tiếp theo",
+ 	 	 	 	"trans": "[Mảnh Chìa Khóa ${segmentDisplayName}] được sử dụng để ghép thành [Chìa Khóa].\nSử dụng [Ga cuối] ở Trung Tâm TP [Hub] để ghép thành [Chìa Khóa ${segmentDisplayName}].\nBạn có thể nhận được một trong số 3 [Mảnh Chìa Khóa] trong mỗi phó bản (cả Bình thường và Thử thách), khi bạn có được 3 [Mảnh Chìa Khóa], sử dụng [Ga Cuối] để ghép thành [Chìa Khóa] cho khu vực tiếp theo",
  	 	 	 	"eng": "A secret key Fragment used to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -643,7 +643,7 @@
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Đau đầu, đau cột sống, đau tim, đau khắp người? Dùng ngay Bình Xịt Giảm Đau™ để giảm đau nhanh chứ không có hết đau được đâu :)",
+ 	 	 	 	"trans": "Bạn và bạn bè của bạn bị đau đầu, đau cột sống, đau tim, đau khắp người? Dùng ngay Bình Xịt Giảm Đau™ để giảm đau nhanh chứ không có hết đau được đâu :)",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -729,7 +729,7 @@
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "Thẻ Kinh Nghiệm",
+ 	 	 	 	"trans": "Mảnh Vỡ Kinh Nghiệm",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
@@ -753,7 +753,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Phát sóng đặc biệt đến tất cả người chơi đang kết nối, gia tăng khả năng não bộ, tạo ra năng lực siêu phàm trong một khoảng thời gian ngắn.\r\n        \r\n        Khi sử dụng, tạo [Buff Thế Giới] cho tất cả người chơi đang Online, tăng tốc hoàn thành nhiệm vụ treo máy 5% trong 10 phút (có thể cộng dồn)",
+ 	 	 	 	"trans": "Phát sóng đặc biệt đến tất cả người chơi đang kết nối, gia tăng khả năng não bộ, tạo ra năng lực siêu phàm trong một khoảng thời gian ngắn.\r\n        \r\n        Khi sử dụng, tạo [Cường Hóa Toàn Cầu] cho tất cả người chơi đang Online, tăng tốc hoàn thành nhiệm vụ treo máy 5% trong 10 phút (có thể cộng dồn)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -763,17 +763,17 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Phát sóng đặc biệt đến tất cả người chơi đang kết nối, gia tăng khả năng não bộ, tạo ra năng lực siêu phàm trong một khoảng thời gian ngắn.\r\n        \r\n        Khi sử dụng, tạo [Buff Thế Giới] cho tất cả người chơi đang Online, tăng tốc hoàn thành nhiệm vụ treo máy 40% trong 10 phút (có thể cộng dồn)",
+ 	 	 	 	"trans": "Phát sóng đặc biệt đến tất cả người chơi đang kết nối, gia tăng khả năng não bộ, tạo ra năng lực siêu phàm trong một khoảng thời gian ngắn.\r\n        \r\n        Khi sử dụng, tạo [Cường Hóa Toàn Cầu] cho tất cả người chơi đang Online, tăng tốc hoàn thành nhiệm vụ treo máy 40% trong 10 phút (có thể cộng dồn)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bộ Phát Sóng Tối Ưu Vỏ Não Trước",
+ 	 	 	 	"trans": "Bộ Phát Sóng Tối Ưu Vỏ Não",
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Phát sóng đặt biệt cho tất cả người chơi đang kết nối, tăng cường khả năng xử lý thông tin của Vỏ Não Trước với phần mềm điều khiển độc nhất, tăng khả năng não bộ của người dùng.\r\n\r\n        Khi sử dụng, tạo [Buff Thế Giới] cho tất cả người chơi Online, tăng kinh nghiệm nhận được 180% trong 20 phút",
+ 	 	 	 	"trans": "Phát sóng đặt biệt cho tất cả người chơi đang kết nối, tăng cường khả năng xử lý thông tin của Vỏ Não với phần mềm điều khiển độc nhất, tăng khả năng não bộ của người dùng.\r\n\r\n        Khi sử dụng, tạo [Cường Hóa Toàn Cầu] cho tất cả người chơi Online, tăng kinh nghiệm nhận được 180% trong 20 phút",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -783,7 +783,7 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Phát sóng đặc biệt cho tất cả người dùng đang kết nối, tạm thời tăng cường thuật toán giao dịch, cho phép người dùng nhận thêm tiền thưởng  ${currencyName}.\r\n\r\n        Khi sử dụng, tạo [Buff Thế Giới] cho tất cả người chơi Online, tăng lượng Bitcoin thu được thêm 40% trong 20 phút (có thể cộng dồn)",
+ 	 	 	 	"trans": "Phát sóng đặc biệt cho tất cả người dùng đang kết nối, tạm thời tăng cường thuật toán giao dịch, cho phép người dùng nhận thêm tiền thưởng  ${currencyName}.\r\n\r\n        Khi sử dụng, tạo [Cường Hóa Toàn Cầu] cho tất cả người chơi Online, tăng lượng Bitcoin thu được thêm 40% trong 20 phút (có thể cộng dồn)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${currencyName}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        ",
  	 	 	 	"vars": [
  	 	 	 	 	"currencyName"
@@ -796,13 +796,13 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bộ xử lý thần kinh (NPU) được thương mại hóa. Mang đầy đủ tính năng của AI. \r\n        Có thể sử dụng để triển khai robot tự động quét phó bản",
+ 	 	 	 	"trans": "Bộ xử lý thần kinh (NPU) được thương mại hóa, có thể dùng để trao đổi giữa người chơi. Mang đầy đủ tính năng của AI. \r\n        Có thể sử dụng để triển khai robot tự động quét phó bản",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pin Nitron",
+ 	 	 	 	"trans": "Lõi Năng Lượng",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
@@ -812,7 +812,7 @@
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bộ Sạc Phản Vật Chất",
+ 	 	 	 	"trans": "Lõi Phản Vật Chất",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
@@ -846,13 +846,13 @@
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Phế liệu công nghệ từ thiết bị đã tái chế. Có thể tái thiết kế tại [Khu Treo Máy] để tăng [Kỹ Thuật In].",
+ 	 	 	 	"trans": "Phế liệu công nghệ từ thiết bị đã tái chế. Có thể tái thiết kế tại [Trung Tâm Nghề] để tăng [Kỹ Thuật In].",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
  	 	"primaryWeapon": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vũ Khí Chính",
+ 	 	 	 	"trans": "Vũ Khí Cơ Bản",
  	 	 	 	"eng": "Primary Weapon"
  	 	 	}
  	 	},
@@ -870,61 +870,61 @@
  	 	},
  	 	"lootBox1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hòm đồ bị khóa",
+ 	 	 	 	"trans": "Hòm Đồ Bị Khóa",
  	 	 	 	"eng": "locked container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Một thùng chứa được gia cố với khóa sinh trắc học, có thể chứa các vật dụng quan trọng bên trong.\n       May mắn thay, vi xử lý trên bo mạch đã lỗi thời, truy cập [Bảng Điều Khiển] để mở khóa",
+ 	 	 	 	"trans": "Một thùng chứa được gia cố với khóa sinh trắc học, có thể chứa các vật dụng quan trọng bên trong.\n       May mắn thay, vi xử lý trên bo mạch đã lỗi thời, truy cập [Ga Cuối] để mở khóa",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
  	 	"lootBox2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hòm đồ bị khóa - Hiếm",
+ 	 	 	 	"trans": "Hòm Đồ Hiếm Bị Khóa",
  	 	 	 	"eng": "locked rare container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Một thùng chứa được gia cố với khóa sinh trắc học, có thể chứa các vật dụng quan trọng bên trong.\n       May mắn thay, vi xử lý trên bo mạch đã lỗi thời, truy cập [Bảng Điều Khiển] để mở khóa",
+ 	 	 	 	"trans": "Một thùng chứa được gia cố với khóa sinh trắc học, có thể chứa các vật dụng quan trọng bên trong.\n       May mắn thay, vi xử lý trên bo mạch đã lỗi thời, truy cập [Ga Cuối] để mở khóa",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
  	 	"lootBox3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hòm đồ bị khóa - Huyền Thoại",
+ 	 	 	 	"trans": "Hòm Đồ Huyền Thoại Bị Khóa",
  	 	 	 	"eng": "locked legendary container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Một thùng chứa được gia cố với khóa sinh trắc học, có thể chứa các vật dụng quan trọng bên trong.\n       May mắn thay, vi xử lý trên bo mạch đã lỗi thời, truy cập [Bảng Điều Khiển] để mở khóa",
+ 	 	 	 	"trans": "Một thùng chứa được gia cố với khóa sinh trắc học, có thể chứa các vật dụng quan trọng bên trong.\n       May mắn thay, vi xử lý trên bo mạch đã lỗi thời, truy cập [Ga Cuối] để mở khóa",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
  	 	"clanDungeonKey": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lệnh Tấn Công",
+ 	 	 	 	"trans": "Lệnh Tấn Công Băng Đăng",
  	 	 	 	"eng": "Gang Invasion Order Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Một máy truyền phát lệnh đơn giản có thể liên kết với kênh được mã hóa của Tập Đoàn để đưa ra lệnh tấn công.\n       Cần để kích hoạt Phó Bản Tập Đoàn",
+ 	 	 	 	"trans": "Một máy truyền phát lệnh đơn giản có thể liên kết với kênh được mã hóa của Băng Đảng để đưa ra lệnh tấn công.\n       Cần để kích hoạt Phó Bản Băng Đảng",
  	 	 	 	"eng": "A simple transmitter device that can be bind to your gang encrypted channel and give out invasion order.\r\n        This item is required to activate Gang Dungeons"
  	 	 	}
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hàng tiếp tế [Tập Đoàn]",
+ 	 	 	 	"trans": "Hàng Tiếp Tế [Băng Đảng]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chứa các vật phẩm và tài nguyên để một Tập Đoàn duy trì hoạt động.\n       Nhấp vào sử dụng để gửi nó đến trụ sở tập đoàn",
+ 	 	 	 	"trans": "Chứa các vật phẩm và tài nguyên để một Băng Đảng duy trì hoạt động.\n       Nhấp vào sử dụng để gửi nó đến trụ sở Băng Đảng",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarters"
  	 	 	}
  	 	},
  	 	"clanExp": {
  	 	 	"name": {
- 	 	 	 	"trans": "Mảnh Bộ Nhớ Tập Đoàn Bị Mã Hóa",
+ 	 	 	 	"trans": "Mảnh Bộ Nhớ Băng Đảng Bị Mã Hóa",
  	 	 	 	"eng": "encrypted gang memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Một mảnh ký ức chứa các bí mật của Tập Đoàn được mã hóa.\n       Phá mã trong trụ sở Tập Đoàn để láy thông tin (yêu cầu phải ở trong một Tập Đoàn)",
+ 	 	 	 	"trans": "Một mảnh ký ức chứa các bí mật của Băng Đảng được mã hóa.\n       Phá mã trong trụ sở Băng Đảng để láy thông tin (yêu cầu phải ở trong một Băng Đảng)",
  	 	 	 	"eng": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarters to gain useful intel (requires to be in a gang)"
  	 	 	}
  	 	},
@@ -1020,7 +1020,7 @@
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Cặp Văn Phòng",
+ 	 	 	 	"trans": "Vali Văn Phòng",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
@@ -1084,13 +1084,13 @@
  	 	 	 	"eng": "Calibration AI Shard (50%) [EVENT]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chứa các mảnh vỡ của Al trước đó được thiết kế để hỗ trợ nâng cấp thiết bị.\n       Giảm 50% khả năng bị phá hủy khi nâng cấp thất bại trong 5 phút. Sử dụng cá nhân.\n      Để có thể hiệu chỉnh các trang bị trong Trụ Sở Tập Đoàn của mình, trước tiên bạn phải tham gia hoặc tạo một Tập Đoàn.",
+ 	 	 	 	"trans": "Chứa các mảnh vỡ của Al trước đó được thiết kế để hỗ trợ nâng cấp thiết bị.\n       Giảm 50% khả năng bị phá hủy khi nâng cấp thất bại trong 5 phút. Sử dụng cá nhân.\n      Để có thể hiệu chỉnh các trang bị trong Trụ Sở Băng Đảng của mình, trước tiên bạn phải tham gia hoặc tạo một Băng Đảng.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% for 5 minutes. this only affect yourself.\r\n        You can calibrate items in your Gang Headquarters, you must join or start a gang first."
  	 	 	}
  	 	},
  	 	"chatExploitPirate": {
  	 	 	"name": {
- 	 	 	 	"trans": "Sóng Chuyển đổi Chat [PRITE]",
+ 	 	 	 	"trans": "Sóng Chuyển đổi Chat [Cướp Biển]",
  	 	 	 	"eng": "Chat exploit transmitter [PIRATE]"
  	 	 	},
  	 	 	"description": {
@@ -1170,7 +1170,7 @@
  	 	},
  	 	"christmasGift": {
  	 	 	"name": {
- 	 	 	 	"trans": "Container bí ẩn",
+ 	 	 	 	"trans": "Hòm Đồ Bí Ẩn",
  	 	 	 	"eng": "Mysterious Container"
  	 	 	},
  	 	 	"description": {
@@ -1180,7 +1180,7 @@
  	 	},
  	 	"rngInterferer": {
  	 	 	"name": {
- 	 	 	 	"trans": "RNG Can Thiệp",
+ 	 	 	 	"trans": "Máy Can Thiệp RNG",
  	 	 	 	"eng": "RNG Interferer"
  	 	 	},
  	 	 	"description": {
@@ -1215,14 +1215,14 @@
  	 	},
  	 	"flashGrenade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lựu đạn flash",
+ 	 	 	 	"trans": "Lựu Đạn Choáng",
  	 	 	 	"eng": "Flash Grenade"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"escape"
  	 	 	 	],
- 	 	 	 	"trans": "Một quả lựu đạn flash có thể được sử dụng để mù quáng. Tăng cơ hội thoát khỏi ${escape}%",
+ 	 	 	 	"trans": "Một quả lựu đạn choáng có thể được sử dụng để gây mù kẻ địch. Tăng cơ hội trốn thoát thêm ${escape}%",
  	 	 	 	"eng": "A flash grenade that can be used to blind enemies. increasing your chance of escape by ${escape}%"
  	 	 	}
  	 	}
@@ -1230,7 +1230,7 @@
  	"action": {
  	 	"autoFarm": {
  	 	 	"name": {
- 	 	 	 	"trans": "Triển khai Bot",
+ 	 	 	 	"trans": "Triển Khai Bot",
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
@@ -1284,7 +1284,7 @@
  	 	},
  	 	"reverseMining": {
  	 	 	"name": {
- 	 	 	 	"trans": "Khai Thác Tiền Điện Tử",
+ 	 	 	 	"trans": "Khai Thác Tiền Ảo",
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
@@ -1297,7 +1297,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Thu Thập Phế Liệu tại ${zoneName}",
+ 	 	 	 	"trans": "Thu Thập Phế Liệu Tại ${zoneName}",
  	 	 	 	"eng": "Scavenge in ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -1310,11 +1310,11 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tìm Tài Nguyên Tập Đoàn",
+ 	 	 	 	"trans": "Thu Thập Tài Nguyên Băng Đảng",
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Giúp thu thập và quản lý các tài nguyên cần thiết cho Tập Đoàn của bạn",
+ 	 	 	 	"trans": "Giúp thu thập và quản lý các tài nguyên cần thiết cho Băng Đảng của bạn",
  	 	 	 	"eng": "Help gather and manage needed resources for your gang"
  	 	 	}
  	 	},
@@ -1330,7 +1330,7 @@
  	 	},
  	 	"clanOccupation": {
  	 	 	"name": {
- 	 	 	 	"trans": "Củng Cố Nghề Nghiệp Tại Shangri-La",
+ 	 	 	 	"trans": "Củng Cố Khu Vực Chiểm Đóng Tại Shangri-La",
  	 	 	 	"eng": "Reinforce occupation at Shangri-la"
  	 	 	},
  	 	 	"description": {
@@ -1344,7 +1344,7 @@
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        Vào chơi ngay MEGA Pachinko! Để nhận lấy phần thưởng cực lớn lên tới 10000 BTC mỗi phiên, ƯU ĐÃI GIỚI HẠN!!! <3<3<3\r\n        ##Đặt biệt cảm ơn Militech đã tài trợ cho sự kiện này##",
+ 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        Vào chơi ngay MEGA Pachinko! Để nhận lấy những phần thưởng huyền thoại với giá chỉ 5000 BTC mỗi phiên, ƯU ĐÃI GIỚI HẠN!!! <3<3<3\r\n        ##Đặt biệt cảm ơn Militech đã tài trợ cho sự kiện này##",
  	 	 	 	"eng": "Konnichiwa!! ^___^\r\n        Come play the MEGA Pachinko! With chance to win HUGE EPIC rewards\r\n        only 5000 btc per session, LIMITED TIME OFFER!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##"
  	 	 	}
  	 	},
@@ -1354,13 +1354,13 @@
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Hối lộ các quan chức chính phủ và SLPD để thu phí bảo kê từ chủ doanh nghiệp và công dân tại Shangri-La.\n       Có thể nhận được một số vật phẩm sử thi từ họ? (Dành riêng cho hai Tập Đoàn đầu Bảng xếp hạng)",
+ 	 	 	 	"trans": "Hối lộ các quan chức chính phủ và SLPD để thu phí bảo kê từ chủ doanh nghiệp và công dân tại Shangri-La.\n       Có thể nhận được một số vật phẩm sử thi từ họ? (Dành riêng cho hai Băng Đảng đầu Bảng xếp hạng)",
  	 	 	 	"eng": "Bribe government officials and the SLPD to collect protection fees from business owners and citizens in Shangri-La. Maybe you’ll get some EPIC items from them? (Exclusive to the Top 2 Gangs on the Occupation Leaderboard"
  	 	 	}
  	 	},
  	 	"globalQuest": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tấn công SL Data Fortress",
+ 	 	 	 	"trans": "Tấn Công Trụ Sở Dữ Liệu SL",
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
@@ -1422,7 +1422,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Thám hiểm ${zoneName}",
+ 	 	 	 	"trans": "Thám Hiểm ${zoneName}",
  	 	 	 	"eng": "Explore ${zoneName}"
  	 	 	},
  	 	 	"tut": {
@@ -1451,7 +1451,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Tấn công ${zoneName}",
+ 	 	 	 	"trans": "Tấn Công ${zoneName}",
  	 	 	 	"eng": "attack ${zoneName}"
  	 	 	}
  	 	},
@@ -1460,7 +1460,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Tấn công ${zoneName}",
+ 	 	 	 	"trans": "Xâm Lược ${zoneName}",
  	 	 	 	"eng": "invade ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -1469,7 +1469,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Cấp đề nghị:　${maxLevel}+ co-op\r\n                    ${2.3}x EXP! và Quái mạnh hơn 4~5 lần!\r\n                    Chế độ Phó bản Tập Đoàn, rơi nhiều vật phẩm và kinh nghiệm hơn.\r\n                    *Không dành cho người yếu tim theo 2 nghĩa*",
+ 	 	 	 	"trans": "Cấp Đề Nghị:　${maxLevel}+ co-op\r\n                    ${2.3}x EXP! và Quái Mạnh Hơn 4~5 lần!\r\n                    Chế độ Phó bản Băng Đảng, rơi nhiều vật phẩm và kinh nghiệm hơn.\r\n                    *Không dành cho người yếu tim theo 2 nghĩa*",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${2.3}x more EXP! and 4~5x stronger enemies!\r\n                    Gang mode dungeon, extra loot and exp.\r\n                    *Not for the faint of heart*"
  	 	 	}
  	 	},
@@ -1486,24 +1486,24 @@
  	 	 	"eng": "It is too dangerous to search while there are still enemies nearby"
  	 	},
  	 	"loading": {
- 	 	 	"trans": "Đang tải Dungeon ...",
+ 	 	 	"trans": "Đang Tải Phó Bản ...",
  	 	 	"eng": "Loading Dungeon..."
  	 	},
  	 	"sendInvite": {
- 	 	 	"trans": "Gửi lời mời gia nhập Dungeon",
+ 	 	 	"trans": "Gửi Lời Mời Gia Nhập Dungeon",
  	 	 	"eng": "Send Invite To Chat"
  	 	},
  	 	"leaveDungeon": {
- 	 	 	"trans": "Rời ngục tối",
+ 	 	 	"trans": "Rời Phó Bản",
  	 	 	"eng": "Leave dungeon"
  	 	},
  	 	"quest": {
  	 	 	"accept": {
- 	 	 	 	"trans": "Chấp nhận nhiệm vụ",
+ 	 	 	 	"trans": "Chấp Nhận Nhiệm Vụ",
  	 	 	 	"eng": "Accept Quest"
  	 	 	},
  	 	 	"decline": {
- 	 	 	 	"trans": "Từ chối nhiệm vụ",
+ 	 	 	 	"trans": "Từ Chối Nhiệm Vụ",
  	 	 	 	"eng": "Decline Quest"
  	 	 	}
  	 	}
@@ -1527,7 +1527,7 @@
  	 	 	 	 	"segmentMinLevel",
  	 	 	 	 	"segmentMaxLevel"
  	 	 	 	],
- 	 	 	 	"trans": "${segmentDisplayName} Khóa bí mật (lv ${segmentMinLevel} - ${segmentMaxLevel})",
+ 	 	 	 	"trans": "${segmentDisplayName} Chìa Khóa Bí Mật (lv ${segmentMinLevel} - ${segmentMaxLevel})",
  	 	 	 	"eng": "${segmentDisplayName} Secret Key (lv ${segmentMinLevel} - ${segmentMaxLevel})"
  	 	 	}
  	 	}
@@ -1537,7 +1537,7 @@
  	 	 	"vars": [
  	 	 	 	"segmentDisplayName"
  	 	 	],
- 	 	 	"trans": "Tìm 3 [Mảnh Vỡ Chìa Khóa] khác nhau từ mỗi Phó bản ở ${segmentDisplayName}.\r\n                Sau đó ghép thành chìa khóa để đến khu vực tiếp theo.\r\n                Ghép chìa khóa tại [Bảng Điều Khiển] ở Trung Tâm Thành Phố [HUB]",
+ 	 	 	"trans": "Tìm 3 [Mảnh Vỡ Chìa Khóa] khác nhau từ mỗi Phó bản ở ${segmentDisplayName}.\r\n                Sau đó ghép thành chìa khóa để đến khu vực tiếp theo.\r\n                Ghép chìa khóa tại [Ga Cuối] ở Trung Tâm Thành Phố [HUB]",
  	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName}.\r\n                These are used to create the key to the next zone.\r\n                To craft the key, go to Terminal in [HUB]",
  	 	 	"name": {
  	 	 	 	"vars": [
@@ -1550,14 +1550,14 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Tìm 3 [Mảnh Vỡ Chìa Khóa] khác nhau từ mỗi Phó bản ở ${segmentDisplayName}.\r\n                Sau đó ghép thành chìa khóa để đến khu vực tiếp theo.\r\n                Ghép chìa khóa tại [Bảng Điều Khiển] ở Trung Tâm Thành Phố [HUB]",
+ 	 	 	 	"trans": "Tìm 3 [Mảnh Vỡ Chìa Khóa] khác nhau từ mỗi Phó bản ở ${segmentDisplayName}.\r\n                Sau đó ghép thành chìa khóa để đến khu vực tiếp theo.\r\n                Ghép chìa khóa tại [Ga Cuối] ở Trung Tâm Thành Phố [HUB]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
  	 	"random": {
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Dũng Sĩ Diệt Quỷ",
+ 	 	 	 	 	"trans": "Chiến Binh Huyền Thoại",
  	 	 	 	 	"eng": "dungeon warrior"
  	 	 	 	}
  	 	 	},
@@ -1574,7 +1574,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"dealDamage": {
- 	 	 	 	"trans": "Đánh Nhanh Đánh Mạnh",
+ 	 	 	 	"trans": "Sức Mạnh Của Một Chiến Binh",
  	 	 	 	"eng": "Deal Damage"
  	 	 	},
  	 	 	"exp": {
@@ -1600,7 +1600,7 @@
  	 	},
  	 	"newbie": {
  	 	 	"name": {
- 	 	 	 	"trans": "Newbie có lợi ích",
+ 	 	 	 	"trans": "Lợi Ích Tân Thủ",
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
@@ -1610,11 +1610,11 @@
  	 	},
  	 	"newbie2": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Đồng minh và bạn bè",
+ 	 	 	 	"trans": "Đồng Minh Và Những Người Bạn",
  	 	 	 	"eng": "Allies and Friends"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chào mừng bạn đến với CyberCode trực tuyến, \r\n         Kết bạn với những người trực tuyến sẽ rất hữu ích để bạn hoàn thành các nhiệm vụ Co-op, \r\n         Đi trước hỏi mọi người trực tuyến nếu bạn có bất kỳ câu hỏi nào :) \r\n         Hãy nhớ rằng, nếu bạn spam trong trò chuyện, bạn sẽ bị tắt tiếng bởi người điều hành.",
+ 	 	 	 	"trans": "Chào mừng bạn đến với CyberCode Online, \r\n         Kết bạn với những người trực tuyến sẽ rất hữu ích để bạn hoàn thành các nhiệm vụ Co-op, \r\n         Đi trước hỏi mọi người trực tuyến nếu bạn có bất kỳ câu hỏi nào :) \r\n         Hãy nhớ rằng, nếu bạn spam trong trò chuyện, bạn sẽ bị tắt tiếng bởi người điều hành.",
  	 	 	 	"eng": "Welcome to CyberCode Online,\r\n        making friends with people online will be very useful for you to complete co-op quests,\r\n        go ahead ask people online if you have got any questions :)\r\n        Remember, if you spam in the chat, you will be muted by moderators."
  	 	 	}
  	 	},
@@ -1630,7 +1630,7 @@
  	 	},
  	 	"newbie4": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Mở thùng",
+ 	 	 	 	"trans": "Mở Hòm",
  	 	 	 	"eng": "Open Crate"
  	 	 	},
  	 	 	"description": {
@@ -1644,33 +1644,33 @@
  	 	},
  	 	"mobileQuestPage": {
  	 	 	"requires": {
- 	 	 	 	"trans": "Yêu cầu",
+ 	 	 	 	"trans": "Yêu Cầu",
  	 	 	 	"eng": "requires"
  	 	 	}
  	 	},
  	 	"questType": {
  	 	 	"normal": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "thông thường",
+ 	 	 	 	 	"trans": "Thông Thường",
  	 	 	 	 	"eng": "normal"
  	 	 	 	}
  	 	 	},
  	 	 	"social": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "xã hội",
+ 	 	 	 	 	"trans": "Xã Hội",
  	 	 	 	 	"eng": "social"
  	 	 	 	}
  	 	 	},
  	 	 	"dungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "ngục tối",
+ 	 	 	 	 	"trans": "Phó Bản",
  	 	 	 	 	"eng": "dungeon"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"market": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Merchant thị trường",
+ 	 	 	 	"trans": "Trao đổi và buôn bán với Aetera :D",
  	 	 	 	"eng": "Market merchant"
  	 	 	},
  	 	 	"description": {
@@ -1689,54 +1689,54 @@
  	 	 	 	"vars": [
  	 	 	 	 	"skipCount"
  	 	 	 	],
- 	 	 	 	"trans": "Tăng tốc ${skipCount}",
+ 	 	 	 	"trans": "Tăng Tốc ${skipCount}",
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
- 	 	 	 	"trans": "Có thể tăng tốc",
+ 	 	 	 	"trans": "Có Thể Tăng Tốc",
  	 	 	 	"eng": "Skip Available"
  	 	 	}
  	 	},
  	 	"mobileQuestPage": {
  	 	 	"receiveReward": {
- 	 	 	 	"trans": "Nhấn vào đây để nhận thưởng!",
+ 	 	 	 	"trans": "Nhấn Vào Đây Để Nhận Thưởng!",
  	 	 	 	"eng": "Click to receive reward"
  	 	 	},
  	 	 	"inProgress": {
- 	 	 	 	"trans": "Yêu cầu đang tiến hành ...",
+ 	 	 	 	"trans": "Yêu Cầu Đang Tiến Hành ...",
  	 	 	 	"eng": "Request in progress..."
  	 	 	},
  	 	 	"watchAdRefresh": {
- 	 	 	 	"trans": "Xem quảng cáo để làm mới nhiệm vụ",
+ 	 	 	 	"trans": "Xem Quảng Cáo Để Làm Mới Nhiệm Vụ",
  	 	 	 	"eng": "Watch an AD to refresh quest"
  	 	 	},
  	 	 	"rewards": {
- 	 	 	 	"trans": "Phần thưởng",
+ 	 	 	 	"trans": "Phần Thưởng",
  	 	 	 	"eng": "rewards"
  	 	 	},
  	 	 	"rewardAvailable": {
- 	 	 	 	"trans": "Nhấn vào đây để thu thập phần thưởng",
+ 	 	 	 	"trans": "Nhấn Vào Đây Để Thu Thập Phần Thưởng",
  	 	 	 	"eng": "Click to collect reward"
  	 	 	},
  	 	 	"viewDetails": {
- 	 	 	 	"trans": "Nhấn vào đây để xem chi tiết",
+ 	 	 	 	"trans": "Nhấn Vào Đây Để Xem Chi Tiết",
  	 	 	 	"eng": "Click to view details"
  	 	 	}
  	 	},
  	 	"map": {
  	 	 	"interactable": {
- 	 	 	 	"trans": "Có thể tương tác",
+ 	 	 	 	"trans": "Có Thể Tương Tác",
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"travel": {
- 	 	 	 	"trans": "Du hành",
+ 	 	 	 	"trans": "Du Hành",
  	 	 	 	"eng": "Travel"
  	 	 	},
  	 	 	"hiddenNpcTip": {
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount} Thêm tương tác có thể được mở khóa tại vị trí này, lên cấp để mở khóa chúng.",
+ 	 	 	 	"trans": "${hiddenCount} Những tương tác mới có thể được mở khóa tại vị trí này, hãy lên cấp để mở khóa chúng.",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travelHiddenLinks": {
@@ -1749,23 +1749,23 @@
  	 	},
  	 	"playerDetails": {
  	 	 	"alias": {
- 	 	 	 	"trans": "Bí danh",
+ 	 	 	 	"trans": "Bí Danh",
  	 	 	 	"eng": "Alias"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Danh hiệu",
+ 	 	 	 	"trans": "Danh Hiệu",
  	 	 	 	"eng": "title"
  	 	 	},
  	 	 	"gearScore": {
- 	 	 	 	"trans": "Cấp trang bị",
+ 	 	 	 	"trans": "Cấp Trang Bị",
  	 	 	 	"eng": "Gear Score"
  	 	 	},
  	 	 	"location": {
- 	 	 	 	"trans": "Vị trí",
+ 	 	 	 	"trans": "Vị Trí",
  	 	 	 	"eng": "location"
  	 	 	},
  	 	 	"onlineStatus": {
- 	 	 	 	"trans": "Tình trạng online",
+ 	 	 	 	"trans": "Tình Trạng Online",
  	 	 	 	"eng": "system link"
  	 	 	},
  	 	 	"streetCred": {
@@ -1773,20 +1773,20 @@
  	 	 	 	"eng": "Street Cred"
  	 	 	},
  	 	 	"status": {
- 	 	 	 	"trans": "Tình trạng",
+ 	 	 	 	"trans": "Tình Trạng",
  	 	 	 	"eng": "Status"
  	 	 	},
  	 	 	"numOfMember": {
- 	 	 	 	"trans": "Số thành viên",
+ 	 	 	 	"trans": "Số Thành Viên",
  	 	 	 	"eng": "Number of members"
  	 	 	},
  	 	 	"gangAction": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Thao tác",
+ 	 	 	 	 	"trans": "Thao Tác",
  	 	 	 	 	"eng": "Gang Actions"
  	 	 	 	},
  	 	 	 	"kick": {
- 	 	 	 	 	"trans": "Đuổi",
+ 	 	 	 	 	"trans": "Khai Trừ",
  	 	 	 	 	"eng": "Kick"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
@@ -1794,17 +1794,17 @@
  	 	 	 	 	"eng": "Transfer Leadership"
  	 	 	 	},
  	 	 	 	"editPermissions": {
- 	 	 	 	 	"trans": "Quyền",
+ 	 	 	 	 	"trans": "Quyền Hạn",
  	 	 	 	 	"eng": "Permissions"
  	 	 	 	}
  	 	 	},
  	 	 	"playerActions": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Thao tác",
+ 	 	 	 	 	"trans": "Thao Tác",
  	 	 	 	 	"eng": "Player Actions"
  	 	 	 	},
  	 	 	 	"sendPrivateMsg": {
- 	 	 	 	 	"trans": "Gửi tin nhắn",
+ 	 	 	 	 	"trans": "Gửi Tin Nhắn",
  	 	 	 	 	"eng": "Send private message"
  	 	 	 	},
  	 	 	 	"sendGift": {
@@ -1812,7 +1812,7 @@
  	 	 	 	 	"eng": "Send Gift"
  	 	 	 	},
  	 	 	 	"inviteToGang": {
- 	 	 	 	 	"trans": "Mời vào Tập Đoàn",
+ 	 	 	 	 	"trans": "Mời Vào Băng Đảng",
  	 	 	 	 	"eng": "Invite to Gang"
  	 	 	 	},
  	 	 	 	"addToFriend": {
@@ -1824,12 +1824,12 @@
  	 	 	 	 	"eng": "Remove from Friend List"
  	 	 	 	},
  	 	 	 	"giveStreetCred": {
- 	 	 	 	 	"trans": "Tặng uy tín",
+ 	 	 	 	 	"trans": "Tặng Uy Tín",
  	 	 	 	 	"eng": "Give Street Cred"
  	 	 	 	}
  	 	 	},
  	 	 	"bio": {
- 	 	 	 	"trans": "Tiểu sử",
+ 	 	 	 	"trans": "Tiểu Sử",
  	 	 	 	"eng": "Bio"
  	 	 	},
  	 	 	"bioNotFound": {
@@ -1837,11 +1837,11 @@
  	 	 	 	"eng": "REDACTED"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Đang mặc",
+ 	 	 	 	"trans": "Đã Trang Bị",
  	 	 	 	"eng": "Equipped"
  	 	 	},
  	 	 	"inventory": {
- 	 	 	 	"trans": "Túi đồ",
+ 	 	 	 	"trans": "Túi Đồ",
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"changePicture": {
@@ -1849,28 +1849,28 @@
  	 	 	 	"eng": "Custom profile image is a donator exclusive feature"
  	 	 	},
  	 	 	"changePictureDescription": {
- 	 	 	 	"trans": "Để cung cấp trải nghiệm tốt nhất không có lương cho bạn, nhưng điều cần thiết là tất cả các tính năng được trả tiền là mỹ phẩm như hình ảnh hồ sơ & khung trò chuyện, \n                                                 hoặc các buff toàn cầu có lợi cho tất cả mọi người trong trò chơi :) \n                                                 Hy vọng bạn thích trải nghiệm không phải trả tiền!",
+ 	 	 	 	"trans": "Để cung cấp trải nghiệm tốt nhất không cần nạp lần đầu cho bạn, nhưng điều cần thiết là tất cả các tính năng được trả tiền là mỹ phẩm như hình ảnh hồ sơ & khung trò chuyện, \n                                                 hoặc các buff toàn cầu có lợi cho tất cả mọi người trong trò chơi :) \n                                                 Hy vọng bạn thích trải nghiệm không phải trả tiền!",
  	 	 	 	"eng": "To provide the best No Pay-to-Win experience to you, it is necessary that all paid features are cosmetic like profile images & chat frames, \n                                                or global buffs that benefits everyone in game :)\n                                                Hope you enjoy the No Pay-to-Win experience!"
  	 	 	},
  	 	 	"confirm": {
- 	 	 	 	"trans": "Quyên góp ngay bây giờ",
+ 	 	 	 	"trans": "Nạp Lần Đầu Ngay Bây Giờ",
  	 	 	 	"eng": "Donate now"
  	 	 	}
  	 	},
  	 	"market": {
  	 	 	"lookAround": {
- 	 	 	 	"trans": "Xem các mặc hàng đang được bán",
+ 	 	 	 	"trans": "Đi Shopping",
  	 	 	 	"eng": "Look around"
  	 	 	},
  	 	 	"myStall": {
- 	 	 	 	"trans": "Gian hàng của tôi",
+ 	 	 	 	"trans": "Gian Hàng Của Tôi",
  	 	 	 	"eng": "My Stall"
  	 	 	},
  	 	 	"increaseSlot": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Nâng cấp lên ${nextSlotSize} chỗ",
+ 	 	 	 	"trans": "Nâng Cấp Lên ${nextSlotSize} Ô Chứa Đồ",
  	 	 	 	"eng": "Increase slot to ${nextSlotSize}"
  	 	 	},
  	 	 	"stall": {
@@ -1901,7 +1901,7 @@
  	 	 	 	"eng": "chat"
  	 	 	},
  	 	 	"gang": {
- 	 	 	 	"trans": "Tập Đoàn",
+ 	 	 	 	"trans": "Băng Đảng",
  	 	 	 	"eng": "gang"
  	 	 	},
  	 	 	"mail": {
@@ -1909,11 +1909,11 @@
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
- 	 	 	 	"trans": "Thông báo",
+ 	 	 	 	"trans": "Thông Báo",
  	 	 	 	"eng": "noti."
  	 	 	},
  	 	 	"reconnecting": {
- 	 	 	 	"trans": "Đang kết nối lại",
+ 	 	 	 	"trans": "Đang Kết Nối Lại",
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"underlevelChatBlock": {
@@ -1924,7 +1924,7 @@
  	 	 	 	"eng": "You need to be at least level ${minLevel} to send chat messages"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "Xin đừng gửi tin nhắn vô nghĩa, spam sẽ bị cấm chat.",
+ 	 	 	 	"trans": "Xin đừng gửi tin nhắn vô nghĩa, SPAM sẽ bị cấm chat.",
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
@@ -1947,25 +1947,25 @@
  	 	 	 	"vars": [
  	 	 	 	 	"playerName"
  	 	 	 	],
- 	 	 	 	"trans": "Trả lời ${playerName}",
+ 	 	 	 	"trans": "Trả Lời ${playerName}",
  	 	 	 	"eng": "Replying to ${playerName}"
  	 	 	}
  	 	},
  	 	"profile": {
  	 	 	"profile": {
- 	 	 	 	"trans": "Hồ sơ",
+ 	 	 	 	"trans": "Hồ Sơ",
  	 	 	 	"eng": "Profile"
  	 	 	},
  	 	 	"update": {
- 	 	 	 	"trans": "Cập nhật",
+ 	 	 	 	"trans": "Cập Nhật",
  	 	 	 	"eng": "Updates"
  	 	 	},
  	 	 	"tutorial": {
- 	 	 	 	"trans": "Hướng dẫn",
+ 	 	 	 	"trans": "Hướng Dẫn",
  	 	 	 	"eng": "tutorial"
  	 	 	},
  	 	 	"credits": {
- 	 	 	 	"trans": "Tín dụng",
+ 	 	 	 	"trans": "Tín Dụng",
  	 	 	 	"eng": "credits"
  	 	 	},
  	 	 	"deleteAccount": {
@@ -1975,7 +1975,7 @@
  	 	 	 	},
  	 	 	 	"input": {
  	 	 	 	 	"label": {
- 	 	 	 	 	 	"trans": "Xóa tài khoản",
+ 	 	 	 	 	 	"trans": "Xóa Tài Khoản",
  	 	 	 	 	 	"eng": "Delete Account"
  	 	 	 	 	},
  	 	 	 	 	"placeholder": {
@@ -1987,13 +1987,13 @@
  	 	},
  	 	"tutorial": {
  	 	 	"title": {
- 	 	 	 	"trans": "Hướng dẫn",
+ 	 	 	 	"trans": "Hướng Dẫn",
  	 	 	 	"eng": "Tutorial"
  	 	 	}
  	 	},
  	 	"setting": {
  	 	 	"language": {
- 	 	 	 	"trans": "Ngôn ngữ",
+ 	 	 	 	"trans": "Ngôn Ngữ",
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
@@ -2001,7 +2001,7 @@
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
- 	 	 	 	"trans": "Tắt nhạc nền",
+ 	 	 	 	"trans": "Tắt Nhạc Nền",
  	 	 	 	"eng": "Mute background music"
  	 	 	},
  	 	 	"restartRequired": {
@@ -2009,24 +2009,24 @@
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
- 	 	 	 	"trans": "Áp dụng",
+ 	 	 	 	"trans": "Áp Dụng",
  	 	 	 	"eng": "save"
  	 	 	},
  	 	 	"langGithub": {
- 	 	 	 	"trans": "Trợ giúp dịch trò chơi",
+ 	 	 	 	"trans": "Trợ Giúp Dịch Trò Chơi",
  	 	 	 	"eng": "Help with translating the game"
  	 	 	},
  	 	 	"receiveClanNotification": {
- 	 	 	 	"trans": "Nhận thông báo từ Tập Đoàn",
+ 	 	 	 	"trans": "Nhận Thông Báo Từ Băng Đảng",
  	 	 	 	"eng": "Receive Gang Notification"
  	 	 	},
  	 	 	"receiveGlobalNotification": {
- 	 	 	 	"trans": "Nhận thông báo về Buff Thế giới",
+ 	 	 	 	"trans": "Nhận Thông Báo Về Cường Hóa Toàn Cầu",
  	 	 	 	"eng": "Receive Global Buff Notification"
  	 	 	},
  	 	 	"disableAttackBar": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Tắt thanh thời gian tấn công",
+ 	 	 	 	 	"trans": "Tắt Thanh Căn Lực Tấn Công",
  	 	 	 	 	"eng": "Disable Attack Timing Bar"
  	 	 	 	},
  	 	 	 	"description": {
@@ -2035,7 +2035,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"forceMobileMode": {
- 	 	 	 	"trans": "Bật chế độ Cyberpunk",
+ 	 	 	 	"trans": "Bật Chế Độ Cyberpunk",
  	 	 	 	"eng": "Enable Cyberpunk Mode"
  	 	 	},
  	 	 	"dangerZone": {
@@ -2043,28 +2043,28 @@
  	 	 	 	"eng": "Danger Zone"
  	 	 	},
  	 	 	"enableBackgroundMusic": {
- 	 	 	 	"trans": "Nhạc nền",
+ 	 	 	 	"trans": "Nhạc Nền",
  	 	 	 	"eng": "background music"
  	 	 	},
  	 	 	"enableSoundEffects": {
- 	 	 	 	"trans": "Hiệu ứng",
+ 	 	 	 	"trans": "Hiệu Ứng",
  	 	 	 	"eng": "sound effects"
  	 	 	},
  	 	 	"blockGifts": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Tắt nhận quà",
+ 	 	 	 	 	"trans": "Tắt Nhận Quà",
  	 	 	 	 	"eng": "Disable receiving gifts"
  	 	 	 	}
  	 	 	},
  	 	 	"disableVictoryScreen": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Vô hiệu hóa màn hình chiến thắng",
+ 	 	 	 	 	"trans": "Vô hiệu Hóa Màn Hình Chiến Thắng",
  	 	 	 	 	"eng": "Disable Victory Screen"
  	 	 	 	}
  	 	 	},
  	 	 	"disableSkipRespectNoti": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Vô hiệu hóa Thông báo Skip Tôn trọng",
+ 	 	 	 	 	"trans": "Vô Hiệu Hóa Thông Báo Vinh Danh Skip",
  	 	 	 	 	"eng": "Disable Skip Respect Notification"
  	 	 	 	}
  	 	 	},
@@ -2081,13 +2081,13 @@
  	 	},
  	 	"captcha": {
  	 	 	"title": {
- 	 	 	 	"trans": "Nhập mật mã để tiếp tục",
+ 	 	 	 	"trans": "Nhập Mật Mã Để Tiếp Tục",
  	 	 	 	"eng": "Enter system passcode to proceed"
  	 	 	}
  	 	},
  	 	"deathScreen": {
  	 	 	"topTitleLeft": {
- 	 	 	 	"trans": "Chấn thương nghiêm trọng",
+ 	 	 	 	"trans": "Chấn Thương Nghiêm Trọng",
  	 	 	 	"eng": "fatal injury"
  	 	 	},
  	 	 	"topTitleRight": {
@@ -2095,7 +2095,7 @@
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "NGUY KỊCH",
+ 	 	 	 	"trans": "Tạch",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -2103,13 +2103,13 @@
  	 	 	 	"eng": "Critical Error: Neural Link Disconnected"
  	 	 	},
  	 	 	"progressBarTitle": {
- 	 	 	 	"trans": "Đang kết nối lại....",
+ 	 	 	 	"trans": "Đang Kết Nối Lại....",
  	 	 	 	"eng": "Re-establishing connection"
  	 	 	}
  	 	},
  	 	"setBio": {
  	 	 	"title": {
- 	 	 	 	"trans": "Nhập tiểu sử của bạn",
+ 	 	 	 	"trans": "Nhập Tiểu Dử Của Bạn",
  	 	 	 	"eng": "Enter your bio"
  	 	 	}
  	 	},
@@ -2123,39 +2123,39 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} Bitcoin sẽ được gửi vào tài khoản Tập Đoàn và không thể lấy lại",
+ 	 	 	 	 	"trans": "${amount} Bitcoin sẽ được gửi vào tài khoản Băng Đảng và không thể lấy lại",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Ký gửi Bitcoin",
+ 	 	 	 	"trans": "Gửi Tiền Bitcoin",
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Cấp độ Tập Đoàn",
+ 	 	 	 	"trans": "Cấp độ Băng Đảng",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
- 	 	 	 	"trans": "Tài nguyên",
+ 	 	 	 	"trans": "Tài Nguyên",
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
- 	 	 	 	"trans": "Kinh phí",
+ 	 	 	 	"trans": "Kinh Phí",
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "Thành viên",
+ 	 	 	 	"trans": "Thành Viên",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Lần bảo trì tới: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Lần Bảo Trì Tới: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
- 	 	 	 	"trans": "Tài nguyên sắp cạn",
+ 	 	 	 	"trans": "Tài Nguyên Sắp Cạn",
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
@@ -2167,13 +2167,13 @@
  	 	 	 	"eng": "Insufficient Resources"
  	 	 	},
  	 	 	"members": {
- 	 	 	 	"trans": "Thành viên",
+ 	 	 	 	"trans": "Thành Viên",
  	 	 	 	"eng": "Members"
  	 	 	},
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Nhập phương châm của Tập Đoàn",
+ 	 	 	 	 	 	"trans": "Nhập Phương Châm Của Băng Đảng",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
@@ -2184,7 +2184,7 @@
  	 	 	},
  	 	 	"updateImage": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Cập Nhật Ảnh Tập Đoàn",
+ 	 	 	 	 	"trans": "Cập Nhật Ảnh Băng Đảng",
  	 	 	 	 	"eng": "Update Gang Image"
  	 	 	 	}
  	 	 	},
@@ -2194,7 +2194,7 @@
  	 	 	},
  	 	 	"occupation": {
  	 	 	 	"noClan": {
- 	 	 	 	 	"trans": "Chưa có Tập Đoàn nào chiếm lĩnh khu vực này",
+ 	 	 	 	 	"trans": "Chưa có Băng Đảng nào chiếm lĩnh khu vực này",
  	 	 	 	 	"eng": "No gang has occupied this area yet"
  	 	 	 	}
  	 	 	}
@@ -2239,14 +2239,14 @@
  	 	 	 	"eng": "All Apps"
  	 	 	},
  	 	 	"tutorial": {
- 	 	 	 	"trans": "Hướng dẫn",
+ 	 	 	 	"trans": "Hướng Dẫn",
  	 	 	 	"eng": "Tutorial"
  	 	 	}
  	 	},
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "đang chờ...",
+ 	 	 	 	 	"trans": "Đang Chờ...",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -2279,7 +2279,7 @@
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Thất bại - phá hủy đã cộng dồn",
+ 	 	 	 	 	"trans": "Thất Bại - Vật Phẩm Đã Bị Phá Hủy",
  	 	 	 	 	"eng": "Destructive failure accrued"
  	 	 	 	}
  	 	 	},
@@ -2289,7 +2289,7 @@
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Không phát hiện lỗi",
+ 	 	 	 	 	"trans": "Không Phát Hiện Lỗi",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
@@ -2305,7 +2305,7 @@
  	 	 	},
  	 	 	"changePicture": {
  	 	 	 	"confirm": {
- 	 	 	 	 	"trans": "Tôi hiểu",
+ 	 	 	 	 	"trans": "Đồng Ý",
  	 	 	 	 	"eng": "I understand"
  	 	 	 	}
  	 	 	}
@@ -2313,7 +2313,7 @@
  	 	"equipmentUpgrade": {
  	 	 	"notActivated": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Không tìm thấy [Lõi]",
+ 	 	 	 	 	"trans": "Không Tìm Thấy [Lõi]",
  	 	 	 	 	"eng": "Core not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
@@ -2327,17 +2327,17 @@
  	 	 	},
  	 	 	"activating": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Đang xử lý...",
+ 	 	 	 	 	"trans": "Đang Xử Lý...",
  	 	 	 	 	"eng": "Processing"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Giải mã mảnh vỡ",
+ 	 	 	 	 	"trans": "Giải Mã Mảnh Vỡ",
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	}
  	 	 	},
  	 	 	"noEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Không tìm thấy trang bị",
+ 	 	 	 	 	"trans": "Không Tìm Thấy Trang Bị",
  	 	 	 	 	"eng": "equipment not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
@@ -2381,7 +2381,7 @@
  	 	 	 	"eng": "Expires in ${date}"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Mục INBOX",
+ 	 	 	 	"trans": "Hòm Đồ",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"description": {
@@ -2389,7 +2389,7 @@
  	 	 	 	"eng": "Items here will be automatically moved to your inventory once you have enough space."
  	 	 	},
  	 	 	"empty": {
- 	 	 	 	"trans": "Không có mục nào trong hộp thư mục của bạn",
+ 	 	 	 	"trans": "Không có mục nào trong hòm đồ của bạn",
  	 	 	 	"eng": "There is no item in your item inbox"
  	 	 	}
  	 	},
@@ -2411,26 +2411,26 @@
  	 	},
  	 	"bank": {
  	 	 	"balance": {
- 	 	 	 	"trans": "Số dư",
+ 	 	 	 	"trans": "Số Dư",
  	 	 	 	"eng": "balance"
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Gửi tiền",
+ 	 	 	 	"trans": "Gửi Tiền",
  	 	 	 	"eng": "Deposit"
  	 	 	},
  	 	 	"withdraw": {
- 	 	 	 	"trans": "Rút tiền",
+ 	 	 	 	"trans": "Rút Tiền",
  	 	 	 	"eng": "Withdraw"
  	 	 	},
  	 	 	"upgradeSlot": {
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "NÂNG CẤP LÊN ${upgradeToSlot} CHỖ",
+ 	 	 	 	"trans": "NÂNG CẤP LÊN ${upgradeToSlot} Ô TRỐNG ",
  	 	 	 	"eng": "UPGRADE TO ${upgradeToSlot} SLOTS"
  	 	 	},
  	 	 	"takeItemFromVault": {
- 	 	 	 	"trans": "Lấy vật phẩm",
+ 	 	 	 	"trans": "Lấy Vật Phẩm",
  	 	 	 	"eng": "Withdraw Item"
  	 	 	},
  	 	 	"putItemToVault": {
@@ -2509,27 +2509,27 @@
  	 	},
  	 	"inventory": {
  	 	 	"items": {
- 	 	 	 	"trans": "Vật phẩm",
+ 	 	 	 	"trans": "Vật Phẩm",
  	 	 	 	"eng": "items"
  	 	 	},
  	 	 	"secretKeys": {
- 	 	 	 	"trans": "Chìa khóa",
+ 	 	 	 	"trans": "Chìa Khóa",
  	 	 	 	"eng": "secret keys"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Đang mặc",
+ 	 	 	 	"trans": "Đã Trang Bị",
  	 	 	 	"eng": "Equipped"
  	 	 	},
  	 	 	"inventory": {
- 	 	 	 	"trans": "Túi đồ",
+ 	 	 	 	"trans": "Túi Đồ",
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"itemInbox": {
- 	 	 	 	"trans": "Hộp thư",
+ 	 	 	 	"trans": "Hộp Thư",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"crafting": {
- 	 	 	 	"trans": "Chế tạo",
+ 	 	 	 	"trans": "Chế Tạo",
  	 	 	 	"eng": "Crafting"
  	 	 	},
  	 	 	"autoScrap": {
@@ -2542,11 +2542,11 @@
  	 	"itemDisplay": {
  	 	 	"broken": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Bị trục trặc",
+ 	 	 	 	 	"trans": "Bị Trục Trặc",
  	 	 	 	 	"eng": "Malfunctioned"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Cần sửa chữa",
+ 	 	 	 	 	"trans": "Cần Sửa Chữa",
  	 	 	 	 	"eng": "Extensive repair required"
  	 	 	 	},
  	 	 	 	"instruction": {
@@ -2559,19 +2559,19 @@
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
- 	 	 	 	"trans": "Trang bị",
+ 	 	 	 	"trans": "Trang Bị",
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"unequip": {
- 	 	 	 	"trans": "Tháo trang bị",
+ 	 	 	 	"trans": "Tháo Trang Bị",
  	 	 	 	"eng": "Unequip"
  	 	 	},
  	 	 	"use": {
- 	 	 	 	"trans": "Sử dụng",
+ 	 	 	 	"trans": "Sử Dụng",
  	 	 	 	"eng": "Use"
  	 	 	},
  	 	 	"unlock": {
- 	 	 	 	"trans": "Mở khóa",
+ 	 	 	 	"trans": "Mở Khóa",
  	 	 	 	"eng": "Unlock"
  	 	 	},
  	 	 	"lock": {
@@ -2579,7 +2579,7 @@
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "Nâng cấp",
+ 	 	 	 	"trans": "Nâng Cấp",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
@@ -2630,7 +2630,7 @@
  	 	 	},
  	 	 	"buyUnit": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Mua đơn vị",
+ 	 	 	 	 	"trans": "Mua Unit",
  	 	 	 	 	"eng": "Buy Unit"
  	 	 	 	}
  	 	 	}
@@ -2651,31 +2651,31 @@
  	 	 	 	"eng": "Factory Reset"
  	 	 	},
  	 	 	"quality": {
- 	 	 	 	"trans": "phẩm chất",
+ 	 	 	 	"trans": "Chất Lượng",
  	 	 	 	"eng": "quality"
  	 	 	}
  	 	},
  	 	"apps": {
  	 	 	"dailyReward": {
- 	 	 	 	"trans": "Nhận thưởng hàng ngày",
+ 	 	 	 	"trans": "Nhận Thưởng Hàng Ngày",
  	 	 	 	"eng": "Daily Reward"
  	 	 	},
  	 	 	"coupon": {
- 	 	 	 	"trans": "Mã thưởng",
+ 	 	 	 	"trans": "Mã Thưởng",
  	 	 	 	"eng": "Claim Coupon"
  	 	 	},
  	 	 	"referral": {
- 	 	 	 	"trans": "Chương trình giới thiệu",
+ 	 	 	 	"trans": "Chương Trình Giới Thiệu",
  	 	 	 	"eng": "Referral Program"
  	 	 	},
  	 	 	"skipQueue": {
- 	 	 	 	"trans": "Bỏ qua hàng đợi",
+ 	 	 	 	"trans": "Bỏ Qua Hàng Đợi",
  	 	 	 	"eng": "Skip Queue"
  	 	 	}
  	 	},
  	 	"gang": {
  	 	 	"confirmKickMember": {
- 	 	 	 	"trans": "Bạn có chắc chắn muốn đuổi người chơi này khỏi Tập Đoàn?",
+ 	 	 	 	"trans": "Bạn có chắc chắn muốn đuổi người chơi này khỏi Băng Đảng?",
  	 	 	 	"eng": "are you sure you want to kick this player from your gang?"
  	 	 	},
  	 	 	"memberContribution": {
@@ -2697,7 +2697,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"moneyContribution"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Tài trợ ${moneyContribution}",
+ 	 	 	 	 	"trans": "Tài Trợ ${moneyContribution}",
  	 	 	 	 	"eng": "${moneyContribution} funding"
  	 	 	 	},
  	 	 	 	"exp": {
@@ -2723,7 +2723,7 @@
  	 	 	 	"eng": "Paste or enter your coupon here"
  	 	 	},
  	 	 	"confirm": {
- 	 	 	 	"trans": "Kích hoạt mã",
+ 	 	 	 	"trans": "Kích Hoạt Mã",
  	 	 	 	"eng": "Activate Coupon"
  	 	 	}
  	 	},
@@ -2733,11 +2733,11 @@
  	 	 	 	"eng": "Day"
  	 	 	},
  	 	 	"canClaim": {
- 	 	 	 	"trans": "Sẵn sàng",
+ 	 	 	 	"trans": "Sẵn Sàng",
  	 	 	 	"eng": "Available"
  	 	 	},
  	 	 	"claimed": {
- 	 	 	 	"trans": "Đã nhận",
+ 	 	 	 	"trans": "Đã Nhận",
  	 	 	 	"eng": "Claimed"
  	 	 	},
  	 	 	"cantClaimYet": {
@@ -2795,7 +2795,7 @@
  	 	},
  	 	"login": {
  	 	 	"loginButton": {
- 	 	 	 	"trans": "Đăng nhập",
+ 	 	 	 	"trans": "Đăng Nhập",
  	 	 	 	"eng": "Login"
  	 	 	},
  	 	 	"forgotPassword": {
@@ -2803,13 +2803,13 @@
  	 	 	 	"eng": "Forgot Password?"
  	 	 	},
  	 	 	"registerPageButton": {
- 	 	 	 	"trans": "Tạo tài khoản?",
+ 	 	 	 	"trans": "Tạo Tài Khoản?",
  	 	 	 	"eng": "Create Account?"
  	 	 	}
  	 	},
  	 	"register": {
  	 	 	"registerButton": {
- 	 	 	 	"trans": "Tạo tài khoản",
+ 	 	 	 	"trans": "Tạo Tài Khoản",
  	 	 	 	"eng": "Create Account"
  	 	 	},
  	 	 	"loginPageButton": {
@@ -2833,7 +2833,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"welcomeTo": {
- 	 	 	 	"trans": "Chào mừng bạn đến",
+ 	 	 	 	"trans": "Chào mừng bạn đến với",
  	 	 	 	"eng": "Welcome to"
  	 	 	},
  	 	 	"setCharacterNameTitle": {
@@ -2874,7 +2874,7 @@
  	 	 	 	"eng": "the best text-based mmorpg"
  	 	 	},
  	 	 	"confirm": {
- 	 	 	 	"trans": "Tạo nhân vật",
+ 	 	 	 	"trans": "Tạo Nhân Vật",
  	 	 	 	"eng": "Create Character"
  	 	 	},
  	 	 	"confirmModal": {
@@ -2970,7 +2970,7 @@
  	 	 	},
  	 	 	"marketShortcut": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Chợ Amadon",
+ 	 	 	 	 	"trans": "Amadon",
  	 	 	 	 	"eng": "Amadon"
  	 	 	 	}
  	 	 	},
@@ -2982,22 +2982,22 @@
  	 	"quest": {
  	 	 	"globalQuest": {
  	 	 	 	"progressTitle": {
- 	 	 	 	 	"trans": "Tấn công Pháo đài Shangri-La Data",
+ 	 	 	 	 	"trans": "Tấn Công Trụ Sở Dữ Liệu SL",
  	 	 	 	 	"eng": "SL-Data Fortress Breach"
  	 	 	 	},
  	 	 	 	"infoBox": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Tấn công mạng đang diễn ra",
+ 	 	 	 	 	 	"trans": "Tấn Công Không Gian Mạng Đang Diễn Ra",
  	 	 	 	 	 	"eng": "Cyberspace hacking in progress"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Tham gia lực lượng Netrunner để xâm nhập vào Pháo đài Shangri-La Data và nhận [Buff thế giới] cho tất cả người chơi",
+ 	 	 	 	 	 	"trans": "Tham gia với những người chơi khác trong Băng Đảng để xâm nhập vào Pháo đài Shangri-La Data và nhận [Cường Hóa Toàn Cầu] cho tất cả người chơi",
  	 	 	 	 	 	"eng": "Join forces with other Netrunners to breach the SL-Data Fortress to grant all players with buff"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"completeBox": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Hoành thành tấn công",
+ 	 	 	 	 	 	"trans": "Xâm Nhập Thành Công",
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
@@ -3011,19 +3011,19 @@
  	 	 	"attackButton": {
  	 	 	 	"primary": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Cơ bản",
+ 	 	 	 	 	 	"trans": "Cơ Bản",
  	 	 	 	 	 	"eng": "primary"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"secondary": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Đặc biệt",
+ 	 	 	 	 	 	"trans": "Đặc Biệt",
  	 	 	 	 	 	"eng": "special"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"tertiary": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Hủy diệt",
+ 	 	 	 	 	 	"trans": "Hủy Diệt",
  	 	 	 	 	 	"eng": "Destruct."
  	 	 	 	 	}
  	 	 	 	}
@@ -3076,11 +3076,11 @@
  	 	 	},
  	 	 	"underMaintenance": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Ngục tối dưới bảo trì",
+ 	 	 	 	 	"trans": "Phó Bản đang bảo trì",
  	 	 	 	 	"eng": "Dungeons Under Maintenance"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Dungeon hiện đang được bảo trì, Dexter đang làm việc để đưa họ trở lại càng sớm càng tốt!",
+ 	 	 	 	 	"trans": "Phó Bản hiện đang được bảo trì, Dexter Huang (ADMIN) đang làm việc để đưa nó trở lại càng sớm càng tốt!",
  	 	 	 	 	"eng": "Dungeons are currently under maintenance, Dexter is working on bringing them back as soon as possible!"
  	 	 	 	}
  	 	 	}
@@ -3122,13 +3122,13 @@
  	 	},
  	 	"playerStatus": {
  	 	 	"occupiedBy": {
- 	 	 	 	"trans": "Được chiếm đóng bởi",
+ 	 	 	 	"trans": "Được Chiếm Đóng Bởi",
  	 	 	 	"eng": "Occupied by"
  	 	 	}
  	 	},
  	 	"craftingPage": {
  	 	 	"title": {
- 	 	 	 	"trans": "Chế tạo",
+ 	 	 	 	"trans": "Chế Tạo",
  	 	 	 	"eng": "Crafting"
  	 	 	},
  	 	 	"onlyShowCraftable": {
@@ -3139,7 +3139,7 @@
  	 	"communityItemLore": {
  	 	 	"noLoreButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Tạo tiểu sử",
+ 	 	 	 	 	"trans": "Tạo Tiểu Sử",
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
@@ -3171,7 +3171,7 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Xếp hạng in thấp",
+ 	 	 	 	 	"trans": "Kĩ Thuật In thấp",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
@@ -3180,31 +3180,31 @@
  	 	 	 	"eng": "Increase your Printing Rank to create more powerful weapons by printing more caches"
  	 	 	},
  	 	 	"quickSlots": {
- 	 	 	 	"trans": "Slots nhanh chóng",
+ 	 	 	 	"trans": "Ô Trang Bị Nhanh",
  	 	 	 	"eng": "Quick Slots"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Đã trang bị",
+ 	 	 	 	"trans": "Đã Trang Bị",
  	 	 	 	"eng": "Equipped"
  	 	 	}
  	 	},
  	 	"quickSlot": {
  	 	 	"unbindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Bỏ liên kết khe nhanh?",
+ 	 	 	 	 	"trans": "Bỏ liên kết ô trang bị nhanh?",
  	 	 	 	 	"eng": "Unbind quick slot?"
  	 	 	 	}
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Chọn một mục có thể sử dụng để liên kết với một khe nhanh",
+ 	 	 	 	 	"trans": "Chọn một mục có thể sử dụng để trang bị nhanh nhanh",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"tutorialPage": {
  	 	 	"rules": {
- 	 	 	 	"trans": "Quy tắc",
+ 	 	 	 	"trans": "Luật",
  	 	 	 	"eng": "rules"
  	 	 	},
  	 	 	"faq": {
@@ -3212,19 +3212,19 @@
  	 	 	 	"eng": "faq"
  	 	 	},
  	 	 	"referral": {
- 	 	 	 	"trans": "Giới thiệu",
+ 	 	 	 	"trans": "Giới Thiệu",
  	 	 	 	"eng": "referral"
  	 	 	},
  	 	 	"equipment": {
- 	 	 	 	"trans": "Trang thiết bị",
+ 	 	 	 	"trans": "Trang Thiết Bị",
  	 	 	 	"eng": "equipment"
  	 	 	},
  	 	 	"inventory": {
- 	 	 	 	"trans": "Kho đồ",
+ 	 	 	 	"trans": "Kho Đồ",
  	 	 	 	"eng": "inventory"
  	 	 	},
  	 	 	"combat": {
- 	 	 	 	"trans": "Chiến đấu",
+ 	 	 	 	"trans": "Chiến Đấu",
  	 	 	 	"eng": "combat"
  	 	 	},
  	 	 	"dungeon": {
@@ -3232,39 +3232,39 @@
  	 	 	 	"eng": "dungeon"
  	 	 	},
  	 	 	"social": {
- 	 	 	 	"trans": "Xã hội",
+ 	 	 	 	"trans": "Xã Hội",
  	 	 	 	"eng": "social"
  	 	 	},
  	 	 	"keys": {
- 	 	 	 	"trans": "Chìa khóa",
+ 	 	 	 	"trans": "Chìa Khóa",
  	 	 	 	"eng": "keys"
  	 	 	},
  	 	 	"profile": {
- 	 	 	 	"trans": "Hồ sơ",
+ 	 	 	 	"trans": "Hồ Sơ",
  	 	 	 	"eng": "profile"
  	 	 	},
  	 	 	"locations": {
- 	 	 	 	"trans": "Địa điểm",
+ 	 	 	 	"trans": "Địa Điểm",
  	 	 	 	"eng": "locations"
  	 	 	},
  	 	 	"quests": {
- 	 	 	 	"trans": "Nhiệm vụ",
+ 	 	 	 	"trans": "Nhiệm Vụ",
  	 	 	 	"eng": "quests"
  	 	 	},
  	 	 	"resources": {
- 	 	 	 	"trans": "Tài nguyên",
+ 	 	 	 	"trans": "Tài Nguyên",
  	 	 	 	"eng": "resources"
  	 	 	},
  	 	 	"account": {
- 	 	 	 	"trans": "Tài khoản",
+ 	 	 	 	"trans": "Tài Khoản",
  	 	 	 	"eng": "account"
  	 	 	},
  	 	 	"timeSkip": {
- 	 	 	 	"trans": "Thời gian bỏ qua",
+ 	 	 	 	"trans": "Tăng Tốc",
  	 	 	 	"eng": "time skip"
  	 	 	},
  	 	 	"calibration": {
- 	 	 	 	"trans": "sự định cỡ",
+ 	 	 	 	"trans": "Sự Hiệu Chỉnh",
  	 	 	 	"eng": "calibration"
  	 	 	},
  	 	 	"enemyGangsAndMark": {
@@ -3274,7 +3274,7 @@
  	 	},
  	 	"tipsBox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Mẹo chuyên nghiệp",
+ 	 	 	 	"trans": "Mẹo Chuyên Ngiệp",
  	 	 	 	"eng": "Pro Tips"
  	 	 	},
  	 	 	"description": {
@@ -3284,7 +3284,7 @@
  	 	},
  	 	"unit": {
  	 	 	"buy": {
- 	 	 	 	"trans": "Cửa hàng (mua)",
+ 	 	 	 	"trans": "Cửa Hàng (Mua)",
  	 	 	 	"eng": "Shop (buy)"
  	 	 	}
  	 	},
@@ -3300,7 +3300,7 @@
  	 	},
  	 	"actionList": {
  	 	 	"title": {
- 	 	 	 	"trans": "Hành động",
+ 	 	 	 	"trans": "Hành Động",
  	 	 	 	"eng": "Actions"
  	 	 	}
  	 	},
@@ -3335,7 +3335,7 @@
  	},
  	"misc": {
  	 	"missing": {
- 	 	 	"trans": "Còn thiếu",
+ 	 	 	"trans": "Còn Thiếu",
  	 	 	"eng": "missing"
  	 	},
  	 	"name": {
@@ -3347,31 +3347,31 @@
  	 	 	"eng": "Tag"
  	 	},
  	 	"donate": {
- 	 	 	"trans": "Ủng hộ",
+ 	 	 	"trans": "Ủng Hộ",
  	 	 	"eng": "Donate"
  	 	},
  	 	"noSecretKey": {
- 	 	 	"trans": "Không có chìa khóa",
+ 	 	 	"trans": "Không Có Chìa Khóa",
  	 	 	"eng": " No secret key"
  	 	},
  	 	"globalEffects": {
- 	 	 	"trans": "Buff Thế giới",
+ 	 	 	"trans": "Cường Hóa Toàn Cầu",
  	 	 	"eng": "Global Effects"
  	 	},
  	 	"confirm": {
- 	 	 	"trans": "Xác nhận",
+ 	 	 	"trans": "Xác Nhận",
  	 	 	"eng": "Confirm"
  	 	},
  	 	"requires": {
- 	 	 	"trans": "Yêu cầu",
+ 	 	 	"trans": "Yêu Cầu",
  	 	 	"eng": "Requires"
  	 	},
  	 	"receives": {
- 	 	 	"trans": "Nhận được",
+ 	 	 	"trans": "Nhận Được",
  	 	 	"eng": "Receives"
  	 	},
  	 	"amount": {
- 	 	 	"trans": "Số lượng",
+ 	 	 	"trans": "Số Lượng",
  	 	 	"eng": "Amount"
  	 	},
  	 	"shield": {
@@ -3387,7 +3387,7 @@
  	 	 	"eng": "Status Effects"
  	 	},
  	 	"notTradable": {
- 	 	 	"trans": "không thể giao dịch",
+ 	 	 	"trans": "Không thể giao dịch",
  	 	 	"eng": "not tradable"
  	 	},
  	 	"itemUpgradeCapacity": {
@@ -3403,7 +3403,7 @@
  	 	 	"eng": "send"
  	 	},
  	 	"password": {
- 	 	 	"trans": "Mật khẩu",
+ 	 	 	"trans": "Mật Khẩu",
  	 	 	"eng": "Password"
  	 	},
  	 	"close": {
@@ -3411,7 +3411,7 @@
  	 	 	"eng": "close"
  	 	},
  	 	"back": {
- 	 	 	"trans": "Trở về",
+ 	 	 	"trans": "Trở Về",
  	 	 	"eng": "back"
  	 	},
  	 	"dungeons": {
@@ -3419,7 +3419,7 @@
  	 	 	"eng": "dungeons"
  	 	},
  	 	"enemies": {
- 	 	 	"trans": "Kẻ địch",
+ 	 	 	"trans": "Kẻ Địch",
  	 	 	"eng": "Enemies"
  	 	},
  	 	"moderators": {
@@ -3427,11 +3427,11 @@
  	 	 	"eng": "moderators"
  	 	},
  	 	"level": {
- 	 	 	"trans": "Cấp độ",
+ 	 	 	"trans": "Cấp Độ",
  	 	 	"eng": "level"
  	 	},
  	 	"requirements": {
- 	 	 	"trans": "Yêu cầu",
+ 	 	 	"trans": "Yêu ầu",
  	 	 	"eng": "Requirements"
  	 	},
  	 	"characterNameError": {
@@ -3453,11 +3453,11 @@
  	 	 	}
  	 	},
  	 	"escape": {
- 	 	 	"trans": "Thoát khỏi",
+ 	 	 	"trans": "Thoát Khỏi",
  	 	 	"eng": "escape"
  	 	},
  	 	"equipped": {
- 	 	 	"trans": "Đã trang bị",
+ 	 	 	"trans": "Đã Trang Bị",
  	 	 	"eng": "Equipped"
  	 	},
  	 	"purchase": {
@@ -3473,19 +3473,19 @@
  	 	 	"eng": "okay"
  	 	},
  	 	"durability": {
- 	 	 	"trans": "Độ bền",
+ 	 	 	"trans": "Độ Bền",
  	 	 	"eng": "Durability"
  	 	},
  	 	"quickSlot": {
- 	 	 	"trans": "Khe nhanh",
+ 	 	 	"trans": "Ô Trang Bị Nhanh",
  	 	 	"eng": "Quick Slot"
  	 	},
  	 	"craft": {
- 	 	 	"trans": "thủ công",
+ 	 	 	"trans": "Chế Tạo",
  	 	 	"eng": "craft"
  	 	},
  	 	"ok": {
- 	 	 	"trans": "VÂNG",
+ 	 	 	"trans": "Ok",
  	 	 	"eng": "OK"
  	 	}
  	},
@@ -3740,27 +3740,27 @@
  	 	},
  	 	"m1Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Động vật Nemesis",
+ 	 	 	 	"trans": "Kẻ Thù Của Animals",
  	 	 	 	"eng": "Animals Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Tăng sát thương cho kẻ thù của băng đảng động vật",
+ 	 	 	 	"trans": "Tăng sát thương cho kẻ thù của Băng Animals",
  	 	 	 	"eng": "Increases damage to Enemies of Animals gang"
  	 	 	}
  	 	},
  	 	"m2Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nemesh Voodoo",
+ 	 	 	 	"trans": "Kẻ Thù Của Voodoo",
  	 	 	 	"eng": "Voodoo Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Tăng sát thương cho kẻ thù của Gang Voodoo",
+ 	 	 	 	"trans": "Tăng sát thương cho kẻ thù của Băng Voodoo",
  	 	 	 	"eng": "Increases damage to Enemies of Voodoo Boys gang"
  	 	 	}
  	 	},
  	 	"m3Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Scavengers kẻ thù",
+ 	 	 	 	"trans": "Kẻ Thù Của Scavengers",
  	 	 	 	"eng": "Scavengers Nemesis"
  	 	 	},
  	 	 	"description": {
@@ -3770,11 +3770,11 @@
  	 	},
  	 	"m1V": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gây chết người",
+ 	 	 	 	"trans": "Lethal",
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kẻ thù của những người nhặt rác liên quan đến băng đảng tăng sát thương cho bạn",
+ 	 	 	 	"trans": "Kẻ thù của băng Scavengers tăng sát thương cho bạn",
  	 	 	 	"eng": "Enemies of Scavengers gang deals increased damage to you"
  	 	 	}
  	 	},
@@ -3784,17 +3784,17 @@
  	 	 	 	"eng": "Disruptor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kẻ thù của động vật Gang thỏa thuận tăng sát thương cho bạn",
+ 	 	 	 	"trans": "Kẻ thù của Băng Animals tăng sát thương cho bạn",
  	 	 	 	"eng": "Enemies of Animals gang deals increased damage to you"
  	 	 	}
  	 	},
  	 	"m3V": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tạm thời",
+ 	 	 	 	"trans": "Makeshift",
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kẻ thù của các chàng trai Voodoo Ưu đãi băng đảng tăng sát thương cho bạn",
+ 	 	 	 	"trans": "Kẻ thù của Băng Voodoo tăng sát thương cho bạn",
  	 	 	 	"eng": "Enemies of Voodoo Boys gang deals increased damage to you"
  	 	 	}
  	 	}
@@ -3864,7 +3864,7 @@
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Cặp Văn Phòng",
+ 	 	 	 	"trans": "Vali Văn Phòng",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	}
  	 	},
@@ -3944,7 +3944,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Chúc mừng, bạn đã đạt {levelName}!",
+ 	 	 	 	"trans": "Chúc mừng, bạn đã lên cấp {levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
@@ -3958,7 +3958,7 @@
  	 	},
  	 	"review": {
  	 	 	"title1": {
- 	 	 	 	"trans": "Tôi là Dexter, nhà phát triển của trò chơi này và tôi hy vọng có thể biết trải nghiệm của bạn khi chơi trò chơi này.",
+ 	 	 	 	"trans": "Tôi là Dexter Huang, nhà phát triển của trò chơi này và tôi hy vọng có thể biết trải nghiệm của bạn khi chơi trò chơi này.",
  	 	 	 	"eng": "I'm Dexter, the developer of this game, and I hope to know your experience so far."
  	 	 	},
  	 	 	"title2": {
@@ -3967,7 +3967,7 @@
  	 	 	},
  	 	 	"badReview": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Tôi rất xin lỗi, hãy để lại ý kiến của bạn để tôi có thể cải thiện :(",
+ 	 	 	 	 	"trans": "Tôi rất xin lỗi, hãy để lại ý kiến của bạn để tôi có thể cải thiện :'(",
  	 	 	 	 	"eng": "I am so sorry, please let me know where I can improve"
  	 	 	 	}
  	 	 	},
@@ -4120,7 +4120,7 @@
  	 	 	 	"eng": "View Profile"
  	 	 	},
  	 	 	"openPlayerGang": {
- 	 	 	 	"trans": "Xem Tập Đoàn",
+ 	 	 	 	"trans": "Xem Băng Đảng",
  	 	 	 	"eng": "View Gang"
  	 	 	},
  	 	 	"sendGift": {
@@ -4219,11 +4219,11 @@
  	 	 	 	"vars": [
  	 	 	 	 	"amount"
  	 	 	 	],
- 	 	 	 	"trans": "Điều này sẽ quyên góp đơn vị ${amount} từ tài khoản của bạn",
+ 	 	 	 	"trans": "Điều này sẽ quyên góp Unit ${amount} từ tài khoản của bạn",
  	 	 	 	"eng": "This will donate ${amount} Unit from your account"
  	 	 	},
  	 	 	"notEnough": {
- 	 	 	 	"trans": "Bạn không có đủ đơn vị để quyên góp.",
+ 	 	 	 	"trans": "Bạn không có đủ Unit để quyên góp.",
  	 	 	 	"eng": "You do not have enough Unit to donate."
  	 	 	}
  	 	}
@@ -4242,21 +4242,21 @@
  	 	 	"vars": [
  	 	 	 	"clanResource"
  	 	 	],
- 	 	 	"trans": "Tài nguyên Tập đoàn ${clanResource}",
+ 	 	 	"trans": "Tài nguyên Băng Đảng ${clanResource}",
  	 	 	"eng": "${clanResource} gang resource"
  	 	},
  	 	"gangExp": {
  	 	 	"vars": [
  	 	 	 	"clanExp"
  	 	 	],
- 	 	 	"trans": "Kinh nghiệm Tập Đoàn ${clanExp}",
+ 	 	 	"trans": "Kinh nghiệm Băng Đảng ${clanExp}",
  	 	 	"eng": "${clanExp} gang exp"
  	 	},
  	 	"gangFunding": {
  	 	 	"vars": [
  	 	 	 	"clanMoney"
  	 	 	],
- 	 	 	"trans": "Ngân quỹ Tập đoàn ${clanMoney}",
+ 	 	 	"trans": "Ngân quỹ Băng Đảng ${clanMoney}",
  	 	 	"eng": "${clanMoney} gang funding"
  	 	},
  	 	"unknown": {
@@ -4280,11 +4280,11 @@
  	},
  	"cost": {
  	 	"requireGang": {
- 	 	 	"trans": "Yêu cầu phải ở trong một Tập đoàn",
+ 	 	 	"trans": "Yêu cầu phải ở trong một Băng Đảng",
  	 	 	"eng": "Requires you to be in a gang"
  	 	},
  	 	"requireTopGang": {
- 	 	 	"trans": "Yêu cầu phải ở trong một Tập đoàn trong Bảng Xếp Hạng",
+ 	 	 	"trans": "Yêu cầu phải ở trong một Băng Đảng trong Bảng Xếp Hạng",
  	 	 	"eng": "Requires you to be in the Top 2 Gangs on the Occupation Leaderboard"
  	 	}
  	},
@@ -4497,7 +4497,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4514,7 +4514,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	}
  	 	},
@@ -4523,7 +4523,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4531,7 +4531,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Nhận ${unit} đơn vị thêm (${bonus})",
+ 	 	 	 	"trans": "Nhận ${unit} Unit thêm (${bonus})",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4540,7 +4540,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4548,7 +4548,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Nhận ${unit} đơn vị thêm (${bonus})",
+ 	 	 	 	"trans": "Nhận ${unit} Unit thêm (${bonus})",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4557,7 +4557,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4565,7 +4565,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Nhận ${unit} đơn vị thêm (${bonus})",
+ 	 	 	 	"trans": "Nhận ${unit} Unit thêm (${bonus})",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4574,7 +4574,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4582,7 +4582,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Nhận ${unit} đơn vị thêm (${bonus})",
+ 	 	 	 	"trans": "Nhận ${unit} Unit thêm (${bonus})",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4591,7 +4591,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4599,7 +4599,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Nhận ${unit} đơn vị thêm (${bonus})",
+ 	 	 	 	"trans": "Nhận ${unit} Unit thêm (${bonus})",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4608,7 +4608,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4616,7 +4616,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Nhận ${unit} đơn vị thêm (${bonus})",
+ 	 	 	 	"trans": "Nhận ${unit} Unit thêm (${bonus})",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4625,7 +4625,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "Đơn vị ${unit}",
+ 	 	 	 	"trans": "Unit ${unit}",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4633,7 +4633,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Nhận ${unit} đơn vị thêm (${bonus})",
+ 	 	 	 	"trans": "Nhận ${unit} Unit thêm (${bonus})",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	}
@@ -4712,11 +4712,11 @@
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"7": {
- 	 	 	 	 	"trans": "Tùy chỉnh phương châm Tập Đoàn",
+ 	 	 	 	 	"trans": "Tùy chỉnh phương châm Băng Đảng",
  	 	 	 	 	"eng": "Customize gang motto"
  	 	 	 	},
  	 	 	 	"8": {
- 	 	 	 	 	"trans": "Tùy chỉnh hình ảnh Tập đoàn",
+ 	 	 	 	 	"trans": "Tùy chỉnh hình ảnh Băng Đảng",
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"9": {
@@ -4752,11 +4752,11 @@
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"7": {
- 	 	 	 	 	"trans": "Tùy chỉnh phương châm Tập đoàn",
+ 	 	 	 	 	"trans": "Tùy chỉnh phương châm Băng Đảng",
  	 	 	 	 	"eng": "Customize gang motto"
  	 	 	 	},
  	 	 	 	"8": {
- 	 	 	 	 	"trans": "Tùy chỉnh hình ảnh Tập đoàn",
+ 	 	 	 	 	"trans": "Tùy chỉnh hình ảnh Băng Đảng",
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"9": {
@@ -4800,11 +4800,11 @@
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"9": {
- 	 	 	 	 	"trans": "Tùy chỉnh phương châm Tập đoàn",
+ 	 	 	 	 	"trans": "Tùy chỉnh phương châm Băng Đảng",
  	 	 	 	 	"eng": "Customize gang motto"
  	 	 	 	},
  	 	 	 	"10": {
- 	 	 	 	 	"trans": "Tùy chỉnh hình ảnh Tập đoàn",
+ 	 	 	 	 	"trans": "Tùy chỉnh hình ảnh Băng Đảng",
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"11": {
@@ -4933,7 +4933,7 @@
  	 	 	"vars": [
  	 	 	 	"price"
  	 	 	],
- 	 	 	"trans": "Đơn vị ${price}",
+ 	 	 	"trans": "Unit ${price}",
  	 	 	"eng": "${price} Unit"
  	 	},
  	 	"permanentDescription": {
@@ -5130,7 +5130,7 @@
  	 	 	"eng": "of Sneaking"
  	 	},
  	 	"evade": {
- 	 	 	"trans": "của trốn tránh",
+ 	 	 	"trans": "trốn tránh",
  	 	 	"eng": "of Evasion"
  	 	},
  	 	"pocketed": {
@@ -5138,15 +5138,15 @@
  	 	 	"eng": "with pockets"
  	 	},
  	 	"criticalChanceArmor": {
- 	 	 	"trans": "của CRIT cơ hội",
+ 	 	 	"trans": "với cơ hội CRIT",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalChanceWeapon": {
- 	 	 	"trans": "của CRIT cơ hội",
+ 	 	 	"trans": "với cơ hội CRIT",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalDamageArmor": {
- 	 	 	"trans": "thiệt hại crit",
+ 	 	 	"trans": "thiệt hại CRIT",
  	 	 	"eng": "of Brutality"
  	 	},
  	 	"healingMultiplier": {
